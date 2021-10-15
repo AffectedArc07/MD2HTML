@@ -1,0 +1,22 @@
+{
+  "name": "md2html",
+  "version": "1.0.0",
+  "description": "A super simple Markdown to HTML parser",
+  "private": true,
+  "author": "AffectedArc07",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  },
+  "dependencies": {
+    "marked": "^3.0.7"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AffectedArc07/MD2HTML.git"
+  }
+}
